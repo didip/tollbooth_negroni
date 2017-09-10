@@ -11,7 +11,7 @@ package main
 import (
     "github.com/urfave/negroni"
     "github.com/didip/tollbooth"
-    "github.com/didip/tollbooth/thirdparty/tollbooth_negroni"
+    "github.com/didip/tollbooth_negroni"
     "net/http"
     "time"
 )
